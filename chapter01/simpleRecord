@@ -1,0 +1,11 @@
+自然语言处理包含自然语言理解和自然语言生成
+
+百度在线翻译：http://fanyi.baidu.com/?aldtype=16047#auto/zh
+图灵机器人：http:/www.tuling123.com/experience/exp-virtual_robot.jhtml?nav=exp
+
+分词常用的手段是基于字典的最长串匹配，据说可以解决85%的问题
+
+语料库：
+中文维基百科 https://dumps.wikimedia.org/zhwiki/
+搜狗新闻语料库 http://download.labs.sogou.com/resource/ca.php
+IMDB情感分析语料库 https://www.kaggle.com/tmdb/tmdb-movie-metadata                  #互联网电影资料库（I）
